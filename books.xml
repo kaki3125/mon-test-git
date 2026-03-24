@@ -28,4 +28,8 @@
 		<title>Test branche bob </title>
 		<author>J.K. Rowling</author>
 	</book>
+	<book id="">
+		<title>Test branche bob 2</title>
+		<author>J.K. Rowling</author>
+	</book>
 </library>

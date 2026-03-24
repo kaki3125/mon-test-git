@@ -24,4 +24,8 @@
 		<title>Test omar 3 </title>
 		<author>J.K. Rowling</author>
 	</book>
+	<book id="7">
+		<title>Test branche bob </title>
+		<author>J.K. Rowling</author>
+	</book>
 </library>

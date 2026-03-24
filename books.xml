@@ -13,7 +13,15 @@
 		<author>J.K. Rowling</author>
 	</book>
 	<book id="4">
-		<title>Test omar</title>
+		<title>Test omar 1</title>
+		<author>J.K. Rowling</author>
+	</book>
+	<book id="5">
+		<title>Test omar 2</title>
+		<author>J.K. Rowling</author>
+	</book>
+	<book id="6">
+		<title>Test omar 3 </title>
 		<author>J.K. Rowling</author>
 	</book>
 </library>
